@@ -1,2 +1,2 @@
-# landing
+# HiGo - Langind page
 HiGo Landing Page
