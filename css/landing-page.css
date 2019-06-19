@@ -151,3 +151,7 @@ footer.footer {
   font-family: 'Questrial';
   color: #ffffff;
 }
+
+.higo-color-text, .higo-color-text a{
+color:#4f1751!important;
+}
